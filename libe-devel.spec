@@ -14,7 +14,6 @@ Source:		%{realname}-%{version}.tar.bz2
 Provides:	%{name}-%{version}
 Provides:	libe-cluster
 Conflicts:	libe0-devel
-BuildRoot:	%{_tmppath}/%{name}-%{version}
 
 %description
 libe is a C library which contains various functions which deal with 
