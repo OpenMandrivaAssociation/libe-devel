@@ -1,6 +1,6 @@
 %define name	libe-devel
 %define	version	0.2.2
-%define release	%mkrel 10
+%define release	%mkrel 11
 %define realname libe
 
 Summary:	C library contains various functions which deal with data structures
