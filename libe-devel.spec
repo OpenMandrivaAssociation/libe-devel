@@ -9,7 +9,7 @@ Version:	%{version}
 Release:	%{release}
 License:	GPL
 Group:		Development/Other	
-URL:		http://www.cs.berkeley.edu/~bnc/libe/
+URL:		https://www.cs.berkeley.edu/~bnc/libe/
 Source:		%{realname}-%{version}.tar.bz2
 Provides:	%{name}-%{version}
 Provides:	libe-cluster
