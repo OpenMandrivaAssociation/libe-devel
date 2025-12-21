@@ -16,6 +16,11 @@ Provides:	libe-cluster
 Conflicts:	libe0-devel
 BuildRoot:	%{_tmppath}/%{name}-%{version}
 
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 %description
 libe is a C library which contains various functions which deal with 
 data structures (hash tables, bitmasks, trees of IP addresses, etc.), 
